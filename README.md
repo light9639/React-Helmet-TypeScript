@@ -247,3 +247,7 @@ export default ({ name }: Props) => {
     )
 }
 ```
+## 📎 출처
+- <a href="https://sangjuntech.tistory.com/4">[React] 리액트 꿀라이브러리 탐방</a>
+- <a href="https://jeonghwan-kim.github.io/dev/2020/08/15/react-helmet.html">react-helmet의 동작 방식</a>
+- <a href="https://velog.io/@miyoni/noSSRyesSEO">react-helmet으로 페이지별 SEO 메타태그 설정하기</a>
